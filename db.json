@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Orifjon",
+      "email": "davlatovorifjon5@gmail.com",
+      "number": "+998901207199"
+    },
+    {
+      "id": "2",
+      "name": "Jahongir",
+      "email": "abduazimovjahongir707@gmail.com",
+      "number": "+998904490924"
+    },
+    {
+      "id": "3",
+      "name": "Sardor",
+      "email": "sardornuriddinov197@gmail.com",
+      "number": "+998934670522"
+    }
+  ]
+}
